@@ -76,7 +76,8 @@ Algunas configuraciones probadas:
 | 4   | Mixto      | 0.5       | 45°           | Rápida pero menos precisa           |
 | 3   | Prismático | 0.2       | 90°           | Cambios bruscos, buena convergencia |
 
-![Imagen de WhatsApp 2025-07-17 a las 10 17 32_ad4813b9](https://github.com/user-attachments/assets/95b2287f-739c-4bfc-8f8e-97937f22e0f6)
+<img width="1073" height="661" alt="image" src="https://github.com/user-attachments/assets/506d96b6-7377-4b06-bac9-8575aadf48a0" />
+
 
 
 ## ✅ Conclusiones
